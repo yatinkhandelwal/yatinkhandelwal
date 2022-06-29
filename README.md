@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Yatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatinkhandelwal)](https://github.com/yatinkhandelwal/github-readme-stats)
 ![Yatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatinkhandelwal&theme=dark&show_icons=true)
 
 <!--
